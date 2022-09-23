@@ -22,7 +22,9 @@ SELECT first_name, last_name
 FROM employees
 WHERE birth_date BETWEEN '1954-01-01' AND '1954-12-31';
 
--- Retirement eligibility
+-- Retirement eligibility: 
+-- birth date between 1952 and 1955
+-- hire_date between 1985 and 1988
 SELECT first_name, last_name
 FROM employees
 WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
