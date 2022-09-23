@@ -35,12 +35,16 @@ An HR analyst of a large firm with thousands of employees was asked to perform e
   </tr>
 </table>
 
-- The number of retiring employees eligible for mentorship program was 1542.
-<img src="images/Mentorship_eligibles.png" width="400"/>
+- The number of retiring employees eligible for mentorship program was 1549.
+<table>
+  <tr>
+    <td><img src="images/Mentorship_eligible.png" width="300" /></td>
+    <td><img src="images/Mentorship_eligible_cnt.png" width="300"/></td>
+  </tr>
+</table>
 
 ## Summary
-High level responses to:
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+- As presented in the analysis above, the total number of current employees in the organization was 240,124. A total of 72,458 roles need to be filled when broken down by title.
+- The total count of retiring employees eligible for mentorship program was 1549. Since only 2% of the total retirement ready employees qualify for mentorship program, the organization would have to go through an extensive hiring process to fill in the remaining roles.
+- In order to help the organization get most out of the mentorship program, a list of all young employees and their positions with the company could be pulled using SQL queries. Additionally, the duration of each young employee in his/her current role could be determined inorder to be assigned to potential mentors from the retiring group.
