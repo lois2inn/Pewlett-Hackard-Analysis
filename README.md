@@ -15,6 +15,20 @@ An HR analyst of a large firm with thousands of employees was asked to perform e
 - Client resources: CSV files
 
 ## Results
+- Below is the entity relationship diagram of the organization's employee database.
+<img src="images/EmployeeDB.png" width="400"/>
+
+- Any current employee of the company born between Jan-01-1952 and Dec-31-1955 would be eligible for retirement. The hire date requirement to determine retirement eligibility implemented in modules was not considered for this analysis. All the employees in the organization hold 240124 titles while the retiring employees hold 72458 titles. This shows that 30% of the titles are held by retiring employees.
+<table>
+  <tr>
+    <td><img src="images/Total_Emp_Titles.png" width="300"/></td>
+    <td><img src="images/Retiring_Emp_Titles.png" width="300"/></td>
+  </tr>
+</table>
+
+- 36% of retiring employees hold Senior Engineer title while 34% hold Senior Staff title. 70% of titles need to be filled if these employees choose to retire in the next few years.
+<img src="" width="" />
+
 
 ## Summary
 High level responses to:
