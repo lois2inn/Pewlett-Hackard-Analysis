@@ -48,3 +48,10 @@ An HR analyst of a large firm with thousands of employees was asked to perform e
 - As presented in the analysis above, the total number of current employees in the organization is 240,124. A total of 72,458 roles need to be filled when broken down by title.
 - The total count of employees eligible for mentorship program is 1549. This is just 2% of the total retirement ready employees. There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Assuming the 1549 next generation employees would be mentored to transition into current retiring positions, the organization would have to go through an extensive hiring process to fill in the remaining positions.
 - In order to help the organization get most out of the mentorship program, the eligibility criteria to qualify for the same could be broadened. A list of all young employees and their positions with the company could be retrieved using SQL queries. Additionally, the duration of each young employee in his/her current role could be determined. Using these lists, the management could identify potential candidates and assign them mentors from the retiring group. This could help the organization better traverse the silver tsunami. 
+- Below are sample queries for the above recommendations:
+<table>
+  <tr>
+    <td><img src="images/Sample_query_1.png" width="400" /></td>
+    <td><img src="images/Sample_query_2.png" width="400"/></td>
+  </tr>
+</table>
